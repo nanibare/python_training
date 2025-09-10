@@ -21,7 +21,6 @@ class Manager:
     def display(self):
         print(f"My name is {self.first_name} {self.last_name}")
 
-# create an object
 manager = Manager("Madrine", "Nalukwago")   
 person.display()     
 
