@@ -25,3 +25,5 @@ manager = Manager("Madrine", "Nalukwago")
 person.display()     
 
 
+# this is our last meeting
+x = 10
