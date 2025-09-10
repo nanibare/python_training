@@ -27,4 +27,5 @@ person.display()
 
 # this is our last meeting
 x = 10
-#test
+# y = 20
+# z = x + y
